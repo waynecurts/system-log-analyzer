@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Generated output files
+summary.csv
+summary.json
+
+# Virtual environments
+venv/
+.env/

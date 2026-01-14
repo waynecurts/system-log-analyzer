@@ -1,5 +1,5 @@
-INFO: System boot successful
-WARNING: Disk usage high
-ERROR: Failed to load module
-ERROR: Network timeout
-INFO: Task completed
+2026-01-13 08:20:01 INFO System boot successful
+2026-01-13 08:21:15 WARNING Disk usage high
+2026-01-13 08:22:44 ERROR Failed to load module
+2026-01-14 09:01:03 ERROR Network timeout
+2026-01-14 09:02:10 INFO Task completed
